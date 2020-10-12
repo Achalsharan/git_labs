@@ -1,2 +1,2 @@
-# git_labs
+# pynetb
 Git Lab1
