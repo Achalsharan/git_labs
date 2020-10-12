@@ -1,2 +1,2 @@
-# git_labs
-Git Lab1
+# gitlabs
+Git labs
